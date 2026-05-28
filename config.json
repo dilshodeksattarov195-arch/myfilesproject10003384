@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsender",
+        "uuid": 26473032,
+        "checksum": "mhtor"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
